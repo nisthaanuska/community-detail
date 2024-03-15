@@ -1,0 +1,87 @@
+*{
+    margin: 0px;
+    font-family: Arial;
+    border: border-box;
+}
+html,body{
+    background-color: whitesmoke;
+}
+.nav{
+    background-color: whitesmoke;
+}
+.firstdiv{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.f1{
+    display: flex;
+    gap: 7px;
+}
+h4{
+    font-size: 30px;
+}
+.a1{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: rgb(54, 54, 186);
+    padding-left: 5px;
+    padding-top: 4px;
+}
+.a2{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: gray;
+    padding-left: 5px;
+    padding-top: 4px;
+}
+.secdiv{
+    /* height: 351;
+    width: 650; */
+    display: flex;
+     flex-wrap: wrap; 
+    gap: 20px;
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    background-color: whitesmoke;
+}
+.sec1{
+    /* height: 117; */
+    width: 350px; 
+    background-color: white;
+    padding: 10px;
+}
+/* .sec2{
+    height: 117;
+    width: 217;
+    background-color: white;
+    padding: 10px;
+}
+.sec3{
+    height: 117;
+    width: 217;
+    background-color: white;
+    padding: 10px; */
+
+img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+.d{
+    display: flex;
+    padding-top: 40px;
+}
+.d2{
+    padding-left: 10px;
+}
+b{
+    color: blue;
+}
